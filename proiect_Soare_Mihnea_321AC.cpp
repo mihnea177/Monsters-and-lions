@@ -1,5 +1,5 @@
 
-// PROIECT POO --- Soare Mihnea Stefan 321AC
+// PROIECT POO --- Soare Mihnea Stefan
 
 #include <iostream>
 #include <string>
